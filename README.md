@@ -17,4 +17,14 @@ Below code sme for client and project
 - ng g c user/edit-user
 - ng g c user/user-form
 
+# Important Codes
+- npx ts-node src/server.ts
+- ng serve
+
+# Application Link
+- https://www.mongodb.com/languages/mean-stack-tutorial
+
+# NGRX Example Link
+- https://codeburst.io/angular-10-ngrx-store-by-example-333cbf16862c
+
 
